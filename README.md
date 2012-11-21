@@ -1,8 +1,8 @@
-# scrollTravel
+scrollTravel
 --------------
 A bookmarklet to make scroll travelling on web pages.
 
-# TODO
+TODO
 ------
 
 - Stop when scroll finish
